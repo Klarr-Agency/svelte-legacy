@@ -20,8 +20,8 @@ This project is compatible with any project that can insert JavaScript into the 
 
 ### It should look like this:
 ```
-var counter = new app.Counter({
-    target: documeny.querySelector('#Counter'),
+var counter = new Component.Counter({
+    target: document.querySelector('#Counter'),
     props: {
         label: "Text from server side"
     }
