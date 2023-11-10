@@ -30,3 +30,6 @@ var counter = new Component.Counter({
 
 ## To do
 Modifications may be necessary to enable hot reloading with `npm run dev`. These changes can be made in `vite.config.ts`.
+
+## Contribution
+Feel free to add other examples in different languages and more complex use cases, and remember to add a star to this project if you find it useful.
